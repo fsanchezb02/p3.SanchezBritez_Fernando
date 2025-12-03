@@ -5,3 +5,5 @@ Prueba DevOps
 ## Apache preferiblemente con laragon para
 ## Asegurate de que el el usuario Gestor con contraseña Secreto 
 ## Tiene permisos para todo
+## Se tiene que clonar estos archivos en la carpeta www de laragon
+## Cuando se haga, se tiene que iniciar en localhost/<rutaDelProyecto>
